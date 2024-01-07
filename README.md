@@ -1,2 +1,3 @@
-# cpp_project1
+# cpp_project
 This is my first project on cpp...
+Developer - Karan Padaliya
